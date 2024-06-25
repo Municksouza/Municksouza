@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=municksouza&label=Profile%20views&color=0e75b6&style=flat" alt="municksouza" /> </p>
 
-- 🔭 I’m currently working on [Talkroom 💬](www.talkroom.me)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Municksouza](https://github.com/Municksouza)
 
 - 📫 How to reach me **munick.freitas@hotmail.com**
