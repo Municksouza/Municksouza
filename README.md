@@ -1,5 +1,5 @@
 
-<img width="1834" alt="Make your README (1)" src="https://github.com/Municksouza/Municksouza/assets/165603350/1868bd2c-c0ee-467b-b1c3-49346df018c0">
+<img width="1834" alt="Make your README (1)" src="https://github.com/Municksouza/Municksouza/assets/165603350/2c05cb0e-31c5-48e8-ab0f-f5ee30ed4b42">
 
 <h1 align="center">Hi 👋, I'm Munick Souza 👩🏻‍💻</h1>
 <h3 align="center">A brazilian passionate full stack developer from Canada  🇧🇷 🍁 💻</h3>
