@@ -68,9 +68,10 @@
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  <![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22xg6powje62mivehv25w5ynq)/>
-  <![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22xg6powje62mivehv25w5ynq&count={10})/>
-  <![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22xg6powje62mivehv25w5ynq&width={200px})/>
-  <![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22xg6powje62mivehv25w5ynq&unique={true|1|on|yes})/>
+  <![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=municksouza)/>
+  <[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=municksouza)](https://open.spotify.com/user/munick.freitas)/>
+  <![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=municksouza&count=5)/>
+  <![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=municksouza&width=600)/>
+  <![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&unique=true)/>
 </div>
 
