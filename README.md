@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Municksouza](https://github.com/Municksouza)
 
-- 📫 How to reach me **munick.freitas@hotmail.com**
-
 - ⚡ Fun fact **I really like working out 🏋️‍♀️**
 
 <h3 align="left">Connect with me:</h3>
